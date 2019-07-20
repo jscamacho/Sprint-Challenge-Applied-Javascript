@@ -30,13 +30,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+ - The DOM is the Document Object Model. It is the cross platform and language applicaton. It is the API for HTML Build in a struture of a tree. 
+
 2. What is an event?
+
+ - An event allows JavaScript  to register (or listen) a handler on elements in the HTML 
 
 3. What is an event listener?
 
+ - The event listener is a handler on the element in the HTML that corrisponds to an action(can't put it in words) 
+
 4. Why would we convert a NodeList into an Array?
 
+- Because nodelists are not arrays and arrays are much easier to work with. 
+
 5. What is a component?
+
+ - A component is made of several parts. The HTML, CSS, or JavaScript that bring together for reuse in a website or application. Components allow you to create reuseable customer elements. 
+
 
 ### Git Set up
 
